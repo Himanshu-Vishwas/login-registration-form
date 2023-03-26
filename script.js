@@ -6,7 +6,6 @@ window.onload = function () {
 function actSign() {
   $("#login-section").hide();
   $("#register-section").show();
-  console.log("hiii");
 }
 
 function actLogin() {
